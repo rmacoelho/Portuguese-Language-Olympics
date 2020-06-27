@@ -9,19 +9,19 @@ The data were analyzed using Structural Topic Model (STM) (Roberts, Stewart, & T
 
 ## Visualizations Files 
 
-* analysis/figures/prev_topic1_state.png -  Variation in the expected proportion of essays that are dedicated to Topic 1 (School Quality and Policies) across states 
+- **analysis/figures/prev_topic1_state.png** -  Variation in the expected proportion of essays that are dedicated to Topic 1 (School Quality and Policies) across states 
 
-* analysis/figures/prev_topic8_state.png - Variation in the expected proportion of essays that are dedicated to Topic 8 (Land Rights Issues) across states
+- **analysis/figures/prev_topic8_state.png** - Variation in the expected proportion of essays that are dedicated to Topic 8 (Land Rights Issues) across states
 
-* analysis/figures/top_topics.png - Top topics in order of prevalence for the whole corpus
+- **analysis/figures/top_topics.png** - Top topics in order of prevalence for the whole corpus
 
-* analysis/figures/topic_region.png - Top topics in order of prevalence by region 
+- **analysis/figures/topic_region.png** - Top topics in order of prevalence by region 
 
-* analysis/figures/topic_state.png - Top topics in order of prevalence by states
+- **analysis/figures/topic_state.png** - Top topics in order of prevalence by states
 
-* analysis/figures/urban_rural.png - Topics more associated with urban or rural areas
+- **analysis/figures/urban_rural.png** - Topics more associated with urban or rural areas
 
-* analysis/figures/high_prob_word.png - Highest word probabilities for each topic
+- **analysis/figures/high_prob_word.png** - Highest word probabilities for each topic
 
-* README.md - This file
+- **README.md** - This file
 
