@@ -1,1 +1,1 @@
-# EDA
+# Figures & tables 
