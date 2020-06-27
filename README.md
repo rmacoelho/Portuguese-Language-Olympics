@@ -29,4 +29,6 @@ The data were analyzed using Structural Topic Model (STM) (Roberts, Stewart, & T
 
 ## Plot of Highest word probabilities for each topic
 
-https://github.com/rmacoelho/Top-Topics-Portuguese-Language-Olympic/blob/master/analysis/figures/high_prob_word.png?raw=true
+<img src="https://github.com/rmacoelho/Top-Topics-Portuguese-Language-Olympic/blob/master/analysis/figures/high_prob_word.png?raw=true" width="964" />
+
+
