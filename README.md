@@ -7,7 +7,7 @@ The Portuguese Language Olympic is a joint initiative of the Brazilian Ministry 
 The data were analyzed using Structural Topic Model (STM) (Roberts, Stewart, & Tingley, 2014).
 
 
-## Visualizations Files 
+## Files 
 
 - **analysis/figures/prev_topic1_state.png** -  Variation in the expected proportion of essays that are dedicated to Topic 1 (School Quality and Policies) across states 
 
@@ -24,4 +24,6 @@ The data were analyzed using Structural Topic Model (STM) (Roberts, Stewart, & T
 - **analysis/figures/high_prob_word.png** - Highest word probabilities for each topic
 
 - **README.md** - This file
+
+- **.gitignore** - Tells git what files not to track
 
