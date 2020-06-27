@@ -1,10 +1,5 @@
-# Project 
+# Portuguese Language Olympic 
 
-This a template for a data analysis project.
+Visualizations of top topics in the Portuguese Language Olympic (PLO), Brazil, thanks to data made available by the Center for Studies and Research in Education, Culture and Community Action (CENPEC). 
 
-* To create a repo that is a copy, log into GitHub and use the green _Use this template_ button.
-* To create a non-repo, local copy, use _Clone or download_ > _Download ZIP_.
-
-An explanation of how to use this project organization can be found in [Project workflow](https://dcl-workflow.stanford.edu/project-workflow.html).
-
-Here is an [example project](https://github.com/dcl-docs/project-example) based upon this template.
+The Portuguese Language Olympic is a joint initiative of the Brazilian Ministry of Education and two civil society organizations: Itaú Social and CENPEC. It takes place in Brazil every two years. The dataset includes approximately 15000 persuasive essays written by public high school students in Brazil. 
