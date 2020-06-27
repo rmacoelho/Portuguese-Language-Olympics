@@ -2,6 +2,9 @@
 .Rhistory
 .Rapp.history
 
+# Makefile
+Makefile
+
 # Session data files
 .RData
 
@@ -45,6 +48,7 @@ data-raw/
 docs/
 scripts/
 reports/
+eda/
 
 
 # Data files
