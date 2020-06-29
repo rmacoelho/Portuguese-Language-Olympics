@@ -1,8 +1,8 @@
-# Top Topics Portuguese Language Olympic
+# Top Topics Portuguese Language Olympics
 
-Visualizations of top topics in the Portuguese Language Olympic (PLO), Brazil, thanks to data made available by the Center for Studies and Research in Education, Culture and Community Action (CENPEC). 
+Visualizations of top topics in the Portuguese Language Olympics (PLO), Brazil, thanks to data made available by the Center for Studies and Research in Education, Culture and Community Action (CENPEC). 
 
-The Portuguese Language Olympic is a joint initiative of the Brazilian Ministry of Education and two civil society organizations: Itaú Social and CENPEC. It takes place in Brazil every two years. The dataset includes approximately 15000 persuasive essays written by public high school students in Brazil. 
+The Portuguese Language Olympics is a joint initiative of the Brazilian Ministry of Education and two civil society organizations: Itaú Social and CENPEC. It takes place in Brazil every two years. The dataset includes approximately 15000 persuasive essays written by public high school students in Brazil. 
 
 The data were analyzed using Structural Topic Model (STM) (Roberts, Stewart, & Tingley, 2014).
 
@@ -29,10 +29,10 @@ The data were analyzed using Structural Topic Model (STM) (Roberts, Stewart, & T
 
 ## Plot of Top topics in the Portuguese Language olympics
 
-<img src="https://github.com/rmacoelho/Top-Topics-Portuguese-Language-Olympic/blob/master/analysis/figures/top_topics.png?raw=true" width="800" />
+<img src="https://github.com/rmacoelho/Top-Topics-Portuguese-Language-Olympics/blob/master/analysis/figures/top_topics.png?raw=true" width="800" />
 
 ## Plot of Highest word probabilities for each topic
 
-<img src="https://github.com/rmacoelho/Top-Topics-Portuguese-Language-Olympic/blob/master/analysis/figures/high_prob_word.png?raw=true" width="964" />
+<img src="https://github.com/rmacoelho/Top-Topics-Portuguese-Language-Olympics/blob/master/analysis/figures/high_prob_word.png?raw=true" width="964" />
 
 
