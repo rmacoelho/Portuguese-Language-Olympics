@@ -24,5 +24,4 @@ The data were analyzed using the Structural Topic Model (STM) (Roberts, Stewart,
 
 <img src="https://github.com/rmacoelho/Portuguese-Language-Olympics/blob/master/analysis/figures/high_prob_word.png?raw=true" width="964" />
 
-https://github.com/rmacoelho/Portuguese-Language-Olympics/blob/master/analysis/figures/high_prob_word.png?raw=true
 
